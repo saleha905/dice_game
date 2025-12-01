@@ -14,7 +14,8 @@ The game uses JavaScript’s `Math.random()` to generate a number from 1 to 6. T
 ## How to Run
 1. Clone or download the project
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/saleha905/dice_game.git
+
 2. Open index.html in your browser
 
 3. Click the Roll Dice button to play
