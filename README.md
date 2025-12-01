@@ -15,9 +15,9 @@ The game uses JavaScript’s `Math.random()` to generate a number from 1 to 6. T
 1. Clone or download the project
    ```bash
    git clone <your-repo-link>
-Open index.html in your browser
+2. Open index.html in your browser
 
-Click the Roll Dice button to play
+3. Click the Roll Dice button to play
 
 Project Structure
 dice_game/
@@ -32,7 +32,7 @@ dice_game/
       dice-5.png  
       dice-6.png
 
-What You’ll Learn
+What You’ll Learn:
 
 Event handling in JavaScript
 
@@ -42,7 +42,7 @@ Handling images dynamically
 
 Building small interactive components
 
-Future Enhancements
+Future Enhancements:
 
 Two-player mode
 
